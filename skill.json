@@ -1,0 +1,15 @@
+{
+  "name": "genpark-concolic-symbolic-execution-branch-inverter-skill",
+  "version": "1.0.0",
+  "description": "Concolic testing and symbolic branch inversion engine for test generation.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "concolic-testing",
+    "symbolic-execution",
+    "branch-inversion",
+    "path-coverage",
+    "agentic-ai"
+  ]
+}
